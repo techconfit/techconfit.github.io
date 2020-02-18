@@ -3,7 +3,9 @@
 A community-curated list of Italian tech conferences.
 Inspired by:
 
-* 
+* 🤖 [AndroidStudyGroup/conferences](https://github.com/AndroidStudyGroup/conferences)
+* 🇪🇸 [npatarino/tech-conferences-spain](https://github.com/npatarino/tech-conferences-spain)
+* 🇵🇹 [cmota/tech-events-portugal](https://github.com/cmota/tech-events-portugal)
 
 
 # Adding a conference

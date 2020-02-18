@@ -1,5 +1,7 @@
 # Italy Tech Conferences 🇮🇹
 
+[![Build Status](https://travis-ci.com/cortinico/tech-conferences-italy.svg?branch=master)](https://travis-ci.com/cortinico/tech-conferences-italy)
+
 [**tech-conferences-italy.now.sh**](https://tech-conferences-italy.now.sh/)
 
 A community-curated list of Italian tech conferences.

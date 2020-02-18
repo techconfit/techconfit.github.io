@@ -1,5 +1,7 @@
 # Italy Tech Conferences 🇮🇹
 
+[**tech-conferences-italy.now.sh**](https://tech-conferences-italy.now.sh/)
+
 A community-curated list of Italian tech conferences.
 Inspired by:
 

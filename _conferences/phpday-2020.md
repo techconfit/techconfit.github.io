@@ -1,5 +1,5 @@
 ---
-name: "RubyDay"
+name: "phpday"
 website: https://2020.phpday.it/
 location: Verona, Italy
 

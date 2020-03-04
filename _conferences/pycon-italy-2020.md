@@ -3,8 +3,8 @@ name: "Pycon IT (11)"
 website: https://pycon.it/en/
 location: Florence, Italy
 
-date_start: 2020-04-02
-date_end:   2020-04-05
+date_start: 2020-11-05
+date_end:   2020-11-08
 
 cfp_start: 2019-12-05
 cfp_end:   2020-01-06

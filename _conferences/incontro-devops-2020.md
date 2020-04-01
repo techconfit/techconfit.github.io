@@ -2,8 +2,7 @@
 name: "Incontro DevOps"
 website: https://2020.incontrodevops.it/
 location: Bologna, Italy
-status: Postponed
 
-date_start: 2020-03-05
-date_end:   2020-03-06
+date_start: 2020-10-22
+date_end:   2020-10-22
 ---

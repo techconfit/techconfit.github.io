@@ -2,6 +2,7 @@
 name: "GDG DevParty Together"
 website: https://www.gdgdevparty.it/
 location: Online
+online: true
 
 date_start: 2020-05-02
 date_end:   2020-05-03

@@ -2,6 +2,7 @@
 name: "Coderful"
 website: https://www.coderful.io/
 location: Catania, Italy
+status: Postponed
 
 date_start: 2020-06-06
 date_end:   2020-06-06

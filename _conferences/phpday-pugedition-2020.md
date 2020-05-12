@@ -1,6 +1,6 @@
 ---
 name: "phpday - PUG edition"
-website: https://2020.phpday.it/
+website: https://pug.phpday.it/
 location: Online
 online: true
 

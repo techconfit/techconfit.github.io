@@ -2,8 +2,9 @@
 name: "Pragmaconf"
 website: https://www.pragmaconference.com/
 location: Bologna, Italy
+online: true
 
-date_start: 2020-10-07
+date_start: 2020-10-08
 date_end:   2020-10-09
 
 cfp_start: 2020-01-01

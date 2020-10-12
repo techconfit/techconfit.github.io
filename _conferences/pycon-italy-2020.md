@@ -2,6 +2,7 @@
 name: "Pycon IT (11)"
 website: https://pycon.it/en/
 location: Florence, Italy
+status: Canceled
 
 date_start: 2020-11-05
 date_end:   2020-11-08

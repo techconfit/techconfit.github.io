@@ -1,8 +1,9 @@
 ---
 name: "CloudConf"
-website: https://2020.cloudconf.it/en/index.html
+website: https://2020.cloudconf.it/
 location: Turin, Italy
+online: true
 
-date_start: 2020-05-11
-date_end:   2020-05-11
+date_start: 2020-11-05
+date_end:   2020-11-05
 ---

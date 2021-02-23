@@ -4,8 +4,8 @@ website: https://2021.rubyday.it/
 location: Verona, Italy
 online: true
 
-date_start: 2021-04-15
-date_end:   2021-04-15
+date_start: 2021-04-07
+date_end:   2021-04-07
 
 cfp_start: 2021-01-22
 cfp_end:   2021-02-15

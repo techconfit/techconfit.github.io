@@ -1,6 +1,6 @@
 ---
 name: "Azure Day 2022"
-website: https://www.eventbrite.it/e/biglietti-azure-day-2022-347000968237
+website: https://www.azureday.it/
 location: Rome, Italy - Online
 online: true
 

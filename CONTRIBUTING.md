@@ -6,7 +6,7 @@ This repo is create to be a community-curated list of Italian tech conferences. 
 
 - make sure it is a tech conference and it is not already listed.
 
-- make sure that is a event (not a meetup, hackaton, etc.)
+- make sure that is a conference (not a meetup, hackaton, etc.)
 
 - make sure that the event is in Italy and the speakers are mostly Italian.
 

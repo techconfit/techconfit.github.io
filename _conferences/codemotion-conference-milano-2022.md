@@ -1,5 +1,5 @@
 ---
-name: "Codemotion Conference Milan 2022"
+name: "Codemotion Conference 2022"
 website: https://extra.codemotion.com/conference-milan-2022/
 location: Milano, Italy
 online: false

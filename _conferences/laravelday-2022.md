@@ -1,9 +1,9 @@
 ---
 name: "laravelday"
-website: https://laravelday.it/
-location: Online
+website: https://2022.laravelday.it/
+location: Verona
 online: true
 
-date_start: 2022-11-01
-date_end:   2022-11-01
+date_start: 2022-11-17
+date_end:   2022-11-17
 ---

@@ -3,7 +3,7 @@ name: "RomHack 2023"
 website: https://romhack.io/
 location: Roma
 
-date_start: 2023-09-12
+date_start: 2023-09-16
 date_end:   2023-09-16
 
 cfp_start: 2022-02-01 

@@ -9,5 +9,5 @@ date_end:   2023-10-25
 
 cfp_start: 2023-04-21
 cfp_end:   2023-07-01
-cfp_site:  [https://extra.codemotion.com/conferencemilan2022-cfp/](https://sessionize.com/codemotion-milan-2023/)
+cfp_site:  [https://sessionize.com/codemotion-milan-2023/](https://sessionize.com/codemotion-milan-2023/)
 ---

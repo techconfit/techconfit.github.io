@@ -1,5 +1,5 @@
 ---
-name: "uxay"
+name: "uxday"
 website: https://2023.uxday.it/
 location: Faenza, Italy
 

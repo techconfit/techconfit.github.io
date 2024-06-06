@@ -1,10 +1,10 @@
 ---
 layout: none
-uid_prefix: https://github.com/cortinico/tech-conferences-italy/tree/master/
+uid_prefix: https://github.com/techconfit/techconfit.github.io/tree/main
 ---
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:https://tech-conferences-italy.now.sh/
+PRODID:https://techconfit.github.io
 METHOD:PUBLISH
 {% for conference in site.conferences %}BEGIN:VEVENT
 UID:{{ page.uid_prefix }}{{ conference.relative_path }}
